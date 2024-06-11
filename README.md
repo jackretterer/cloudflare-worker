@@ -1,5 +1,9 @@
 # Cloudflare Workers AI Test
 
+I made a DAD joke generator. Cause why not?
+
+URL: https://workers-getting-started.jack-retterer.workers.dev/
+
 This project demonstrates using AI within Cloudflare Workers. Follow the steps below to set up, run, and deploy the project.
 
 ## Requirements
